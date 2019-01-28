@@ -1,4 +1,5 @@
 Linux-4-Kids: A Web-based Guided Learning Platform
+
 Members: Alexis Engelvin-Grezes, David Wasilko, Jacob Samar, and Russell Derby
 
 Introduction: 
