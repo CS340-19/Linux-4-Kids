@@ -24,7 +24,7 @@ Existing Work:
 	Due to this wide body of knowledge that is already out there, it is impossible for us to deliver introductory content that is not going to overlap in some way with many other previously-existing programs. Yet, despite the fact that the number of resources is a non-issue, there exists a wide gap in the knowhow of a large percentage of average computer users. This is why our product will focus on perfecting qualities such as ease-of-access, level of engagement, and mental accessibility. Open-sourced products are all about working together as a community to do something great. And in a similar spirit, we seek to build upon the endeavors of others and contribute to the adoption of Linux-based operating systems into more mainstream consumer spaces. By addressing the younger generation, we hope to have a more long lasting impact that continues to spread through the spark it ignited.
 
 
-Measures of Success
+Measures of Success:
 	Obviously for our program to have the impact we wish, the more children who are using it the better. But beyond the number of users, the amount of time spent on the site per user is going to be the more important metric for determining if we are achieving our goals. We are seeking to create engaged learners, who want to continue to advance their education, and continued participation in the program is the surest sign we may have that any influence is there. In the long-term, the truest measure of our success would be to see a noticeable increase in the popular usage of Linux-based systems, as well as the continued growth of the community surrounding it.
 
 Proposed Solution and Technology:
