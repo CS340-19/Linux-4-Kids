@@ -39,8 +39,8 @@ Proposed Solution and Technology
 Our Team
 	Our team is made of a group of diverse talents and interest, with a shared desire to make a contribution to society through education of the youth. While most of us our new to an endeavor such as this, we are all excited to learn the skills we need to achieve our goal. Below are the names and experience of each of the members of our group:
 
-Alexis Engelvin-Grezes
-“I have experience with Java & C++. I do not have experience with the tools we will be using but am excited to learn.”
+- Alexis Engelvin-Grezes
+	“I have experience with Java & C++. I do not have experience with the tools we will be using but am excited to learn.”
 
 David Wasilko
 “I am an intern at the ORNL Spallation Neutron Source. Most of my work is hands-on (building and testing RF electrical circuits), but I also use Python and Matlab for design and control of those systems. I do not have any experience with web development, but I enjoy working on visually creative projects.”
