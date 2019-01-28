@@ -24,7 +24,7 @@ We believe that young people have the ability to utilize the operating system an
 ## Our Proposed Solution:
 Linux-4-Kids, is a website that offers an easily accessible environment for a fun and engaging introduction to Linux.
 The web-based platform will guide kids through exciting educational courses, which cover the high-level usage of
-the operating system as well as the software commonly associated with it. Linux-4-Kids will be easily access from
+the operating system as well as the software commonly associated with it. Linux-4-Kids will be easily accessed from
 any internet connected device, with user accounts that can be signed into from anywhere to allow syncing of progress
 across any platform. Providing the service through a web-based platform will allow the most young people to make
 use of the educational opportunity, avoiding any issues of operating system compatibility or download permissions.
