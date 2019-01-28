@@ -1,8 +1,8 @@
-#Linux-4-Kids: A Web-based Guided Learning Platform
+# Linux-4-Kids: A Web-based Guided Learning Platform
 
 Members: Alexis Engelvin-Grezes, David Wasilko, Jacob Samar, and Russell Derby
 
-##Introduction:
+## Introduction:
 In today’s technological world, the vast majority of personal computers run some version of either Windows
 or macOS. Yet millions of servers that provide service to a large percentage of the internet, along with
 every Android device and a whole host of other SMART consumer products, are being run by Linux-based operating
