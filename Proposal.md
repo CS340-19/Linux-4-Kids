@@ -42,32 +42,32 @@ Our Team
 - Alexis Engelvin-Grezes
 	“I have experience with Java & C++. I do not have experience with the tools we will be using but am excited to learn.”
 
-David Wasilko
-“I am an intern at the ORNL Spallation Neutron Source. Most of my work is hands-on (building and testing RF electrical circuits), but I also use Python and Matlab for design and control of those systems. I do not have any experience with web development, but I enjoy working on visually creative projects.”
+- David Wasilko
+	“I am an intern at the ORNL Spallation Neutron Source. Most of my work is hands-on (building and testing RF electrical circuits), but I also use Python and Matlab for design and control of those systems. I do not have any experience with web development, but I enjoy working on visually creative projects.”
 
-Jacob Samar
-“I have worked at the Knoxville Utilities Board (KUB) for the last year as a web developer intern. Therefore, I have a decent amount of experience front-end and back-end development, using automation tools, and understanding proper conventions to follow in order to collaborate effectively on a project.”
+- Jacob Samar
+	“I have worked at the Knoxville Utilities Board (KUB) for the last year as a web developer intern. Therefore, I have a decent amount of experience front-end and back-end development, using automation tools, and understanding proper conventions to follow in order to collaborate effectively on a project.”
 
-Russell Derby
-“I currently am working in training at a retail company called Altar’d State. I am learning how to develop HTML-based training programs there, and hope to apply that foundational knowledge here. I also have experience programming in C++ and Javascript. I’m excited for the opportunity to work with this team and gain some experience.”
+- Russell Derby
+	“I currently am working in training at a retail company called Altar’d State. I am learning how to develop HTML-based training programs there, and hope to apply that foundational knowledge here. I also have experience programming in C++ and Javascript. I’m excited for the opportunity to work with this team and gain some experience.”
 
 Project Management 
 	Our plan for our project development is to break our objective tasks into three distinct development stages. By planning out our steps carefully, and following the guide that we lay for ourselves, we hope to efficiently and effectively achieve the results that we’ve set out to get.
 
-Stage 1: 
-Research and finalize decisions on the platforms we will use to build the website
-Create a functional first draft of the website 
-Develop an outline for the content of the website 
+- Stage 1: 
+	Research and finalize decisions on the platforms we will use to build the website
+	Create a functional first draft of the website 
+	Develop an outline for the content of the website 
 
-Stage 2:
-Receive feedback on the website
-Format the website based on feedback & build up the content of the website
-Improve the visual elements of the design
-Implement user profiles and storage
+- Stage 2:
+	Receive feedback on the website
+	Format the website based on feedback & build up the content of the website
+	Improve the visual elements of the design
+	Implement user profiles and storage
 
-Stage 3:
-Finalize the website and its content
-Add more features and programs if time permits
+- Stage 3:
+	Finalize the website and its content
+	Add more features and programs if time permits
 	
 We believe that it is feasible to complete the project on time by meeting regularly and keeping up with the milestones we set. In order to make sure that we have a functioning project by the deadline, we will be working with a minimally viable product in mind. After we have laid the groundwork, we will focus on building up the style and content. The sooner we have our site functioning fully, the more time we will have to develop lessons.
 
