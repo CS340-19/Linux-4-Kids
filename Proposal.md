@@ -55,15 +55,18 @@ Stage 1:
 Research and finalize decisions on the platforms we will use to build the website
 Create a functional first draft of the website 
 Develop an outline for the content of the website 
+
 Stage 2:
 Receive feedback on the website
 Format the website based on feedback & build up the content of the website
 Improve the visual elements of the design
 Implement user profiles and storage
+
 Stage 3:
 Finalize the website and its content
 Add more features and programs if time permits
-	We believe that it is feasible to complete the project on time by meeting regularly and keeping up with the milestones we set. In order to make sure that we have a functioning project by the deadline, we will be working with a minimally viable product in mind. After we have laid the groundwork, we will focus on building up the style and content. The sooner we have our site functioning fully, the more time we will have to develop lessons.
+	
+We believe that it is feasible to complete the project on time by meeting regularly and keeping up with the milestones we set. In order to make sure that we have a functioning project by the deadline, we will be working with a minimally viable product in mind. After we have laid the groundwork, we will focus on building up the style and content. The sooner we have our site functioning fully, the more time we will have to develop lessons.
 
 Constraints 
 	The main legal concern for this project would be ensuring that there is no copyright infringement with the graphics or art that we may need to use. Also, the material used to create the educational content of the website must be cited correctly as well as all usage agreements followed. As far as time constraints, it is unlikely that we will be able to full cover the scope of knowledge that we would wish in the 3 months we have to develop. We will be working to cover as much as we can within that time frame.
