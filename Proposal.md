@@ -41,10 +41,13 @@ Our Team
 
 Alexis Engelvin-Grezes
 “I have experience with Java & C++. I do not have experience with the tools we will be using but am excited to learn.”
+
 David Wasilko
 “I am an intern at the ORNL Spallation Neutron Source. Most of my work is hands-on (building and testing RF electrical circuits), but I also use Python and Matlab for design and control of those systems. I do not have any experience with web development, but I enjoy working on visually creative projects.”
+
 Jacob Samar
 “I have worked at the Knoxville Utilities Board (KUB) for the last year as a web developer intern. Therefore, I have a decent amount of experience front-end and back-end development, using automation tools, and understanding proper conventions to follow in order to collaborate effectively on a project.”
+
 Russell Derby
 “I currently am working in training at a retail company called Altar’d State. I am learning how to develop HTML-based training programs there, and hope to apply that foundational knowledge here. I also have experience programming in C++ and Javascript. I’m excited for the opportunity to work with this team and gain some experience.”
 
