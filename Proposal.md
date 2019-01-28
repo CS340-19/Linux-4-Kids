@@ -56,17 +56,23 @@ Project Management
 
 - Stage 1: 
 	Research and finalize decisions on the platforms we will use to build the website
+	
 	Create a functional first draft of the website 
+	
 	Develop an outline for the content of the website 
 
 - Stage 2:
 	Receive feedback on the website
+	
 	Format the website based on feedback & build up the content of the website
+	
 	Improve the visual elements of the design
+	
 	Implement user profiles and storage
 
 - Stage 3:
 	Finalize the website and its content
+	
 	Add more features and programs if time permits
 	
 We believe that it is feasible to complete the project on time by meeting regularly and keeping up with the milestones we set. In order to make sure that we have a functioning project by the deadline, we will be working with a minimally viable product in mind. After we have laid the groundwork, we will focus on building up the style and content. The sooner we have our site functioning fully, the more time we will have to develop lessons.
