@@ -61,7 +61,7 @@ with the most intimate usage of the system. Because it is central to the Linux O
 only scratch the surface of Linux without proficiency at the command line. Possibilities of
 topics to learn about in this section are almost endless, and the topics covered will likely be
 specific and targeted programs over the most useful commands. Young Linux students will likely
-begin with explanation of what a shell is, how to manipulate files, and directory structure. These
+begin with an explanation of what a shell is, how to manipulate files, and directory structure. These
 command line lessons will largely involve a lot of practice and hands-on work, so that the more
 difficult lessons can be more thoroughly absorbed.
 
