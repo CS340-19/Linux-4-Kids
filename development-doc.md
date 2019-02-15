@@ -24,6 +24,11 @@ ___
 1. Will need to install the latest Node LTS at [this location](https://nodejs.org/en/download/)
 2. Install Angular CLI: `npm install -g @angular/cli`
 
+#### For Running the User Server
+More info to come about this. But you don't need to download Mongo unless you want to host or work on the user server, specifically.
+1. Install MongoDB: [Link] (https://www.mongodb.com/dr/fastdl.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-4.0.6-signed.msi/download)
+2. Be Continued
+
 #### Every Time After
 1. From linux4Kids directory cd into source: `cd src`
 2. build your dependencies (so far there are none but that will change): `npm install`
