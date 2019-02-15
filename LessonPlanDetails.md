@@ -82,3 +82,4 @@
   - dealing with rar, tar & zip files in the file manager & command line
   - keyboard shortcuts & bindings specific to the distribution
   - imagemagick how-to
+  - making a backup of your system
