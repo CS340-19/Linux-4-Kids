@@ -4,7 +4,7 @@
   ### [Part 1](Lesson1Part1.md) - Text Only Page
   This is meant to be a page or block of text that is read by the viewer.
 
-  ### Part 2 - Text Only Page
+  ### [Part 2](Lesson1Part2.md) - Text Only Page
   This might involve arrows pointing to the feature described by each word
   
   ## Lesson 2: Introduction to Ubuntu
