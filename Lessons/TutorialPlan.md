@@ -29,6 +29,7 @@
   Basic overview of using the command line to navigate/interact with files
   
   ## Lesson 6: Intro to the Command Line
+  More info on the command line, split into 2 parts
   ### Part 1 - Text & Command Line Emulator
   
   ### Part 2 - Text & Command Line Emulator
