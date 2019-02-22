@@ -18,6 +18,11 @@ Here are some words we'll be using throughout this tutorial.
 
   Directories are the way that the linux file system creates its hierarchical structure. Think of it as a tree, with branches as directories and leaves as files. Branches grow off of the tree, and then off of each other. Directories do the same thing. Directories can contain other directories. The directory at the base of the tree is the root directory and all other directories grow off of it. 
   
-  ## 
+<sup>Sources</sup>
+
+<sup>http://www.linfo.org/directory.html</sup>
+
+<sup>https://www.tldp.org/LDP/sag/html/filesystems.html</sup>
+
 
 
