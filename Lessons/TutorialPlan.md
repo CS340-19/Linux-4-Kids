@@ -1,4 +1,6 @@
 # Tutorial Lesson Plan
+  ## Mini Lesson - Why Bother with Linux?
+  
   ## Lesson 1: Learning Vocabulary
   This lesson goes over terminology needed to understand subsequent lessons
   ### [Part 1](Lesson1Part1.md) - Text Only Page
