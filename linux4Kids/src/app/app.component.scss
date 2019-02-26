@@ -9,6 +9,10 @@ mat-card {
   text-align: center;
 }
 
+.fill-space {
+  flex: 1 1 auto;
+}
+
 mat-toolbar-row {
   justify-content: space-between;
 }
