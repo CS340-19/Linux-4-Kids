@@ -13,7 +13,7 @@
   ### Part 1 - Text Only Page
   This will give a brief overview of Ubuntu - some background information, it's distinguishing features & maybe a little history
   ### Part 2 - Text Only Page
-  Describes the similarities & differencees between Ubuntu and OS's probably used by the viewer
+  Describes the similarities & differences between Ubuntu and OS's probably used by the viewer
   
   ## Lesson 3: Navigating the Desktop Environment
   The pictures will be of the features discussed in the lesson 
