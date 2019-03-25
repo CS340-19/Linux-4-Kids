@@ -1,0 +1,13 @@
+<mat-sidenav-container class="example-container">
+  <mat-sidenav #sidebar mode="over" color="primary">
+    <!-- <p><button mat-button (click)="sidebar.toggle()">inside sidebar goes here</button></p> -->
+    <div>Lessons</div>
+    <div>Site Navigation</div>
+    <div>Other links</div>
+  </mat-sidenav>
+
+  <mat-sidenav-content>
+    <ng-content></ng-content>
+    <!-- <p><button mat-button (click)="sidebar.toggle()">outside toggle here</button></p> -->
+  </mat-sidenav-content>
+</mat-sidenav-container>
