@@ -33,9 +33,11 @@ import {MatNativeDateModule} from '@angular/material';
 import {MatTableModule} from '@angular/material/table';
 import {MatSortModule} from '@angular/material/sort';
 import {MatPaginatorModule} from '@angular/material/paginator';
+import {MatTreeModule} from '@angular/material/tree';
 
 const modules = [
   MatCheckboxModule,
+  MatTreeModule,
   MatCheckboxModule,
   MatNativeDateModule,
   MatButtonModule,

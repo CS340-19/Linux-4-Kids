@@ -1,0 +1,11 @@
+@import '~@angular/material/theming';
+
+.boxed {
+  border-style: solid;
+  // background-color: white;
+}
+
+.outside-box {
+  text-align: center;
+  padding: 5px 15px 10px 15px;
+}

@@ -1,11 +1,16 @@
-<mat-sidenav-container class="example-container">
-  <mat-sidenav #sidebar mode="over" color="primary">
+<mat-sidenav-container>
+  <mat-sidenav #sidebar mode="over" style="background-color: black;">
     <!-- <p><button mat-button (click)="sidebar.toggle()">inside sidebar goes here</button></p> -->
-    <div>Lessons</div>
-    <div>Site Navigation</div>
-    <div>Other links</div>
+    <div><a mat-raised-button routerLink="/lesson-select">Lessons</a></div>
+    <div><a mat-raised-button routerLink="/lesson/text-lesson">Terminal Lesson</a></div>
+    <div><a mat-raised-button routerLink="/lesson/text-lesson">Text Lesson</a></div>
+    <!-- <div><button mat-raised-button>Lessons</button></div>
+    <div><button mat-raised-button>Terminal Lesson</button></div>
+    <div><button mat-raised-button>Text Lesson</button></div> -->
+    <!-- <div>Site Navigation</div>
+    <div>Options</div>
+    <div>Donate</div> -->
   </mat-sidenav>
-
   <mat-sidenav-content>
     <ng-content></ng-content>
     <!-- <p><button mat-button (click)="sidebar.toggle()">outside toggle here</button></p> -->

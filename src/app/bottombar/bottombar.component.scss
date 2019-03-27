@@ -4,11 +4,28 @@ img {
   height: 250px;
 }
 
+ul {
+  list-style: none;
+}
+
+li {
+  padding: 5px;
+  font-size: 20px;
+}
 
 .container {
   display: flex;
 }
 
 .flex-item {
-  flex-grow: 1
+  flex: 1 1 auto;
+}
+
+.center {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  // margin: auto;
+  // width: 50%;
+  // padding: 10px;
 }

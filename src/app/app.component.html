@@ -1,8 +1,8 @@
 <!--The content below is only a placeholder and can be replaced.-->
+<app-navbar [(sideOpen)]="sideOpen"></app-navbar>
 <app-sidebar [(sideOpen)]="sideOpen">
-  <app-navbar [(sideOpen)]="sideOpen"></app-navbar>
   <!-- content goes here -->
-  <img src="../assets/linux4kids_detective.gif">
+  <router-outlet></router-outlet>
   <hr>
   <app-bottombar color="primary"></app-bottombar>
 </app-sidebar>
