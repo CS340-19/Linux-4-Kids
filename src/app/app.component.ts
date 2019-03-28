@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'linux4Kids';
+
+  sideOpen: boolean = false;
 }

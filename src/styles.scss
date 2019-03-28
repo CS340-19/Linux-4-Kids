@@ -1,3 +1,30 @@
 /* You can add global styles to this file, and also import other style files */
-@import 'https://fonts.googleapis.com/icon?family=Material+Icons';
-@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import "theme.scss";
+@import '~@angular/material/theming';
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+@import "app/sidebar/sidebar.component.scss-theme";
+@include mat-core();
+
+// @import "@angular/material/prebuilt-themes/purple-green.css";
+
+@mixin custom-components-theme($theme) {
+  @include sidebar-component-theme($theme);
+}
+
+mat-toolbar-row {
+  justify-content: space-between;
+}
+@include sidebar-component-theme($dark-theme);
+@include angular-material-theme($dark-theme);
+.my-theme {
+  @include angular-material-theme($theme);
+  @include custom-components-theme($theme);
+}
+
+.container {
+  display: flex;
+}
+
+.flex-item {
+  flex-grow: 1
+}
