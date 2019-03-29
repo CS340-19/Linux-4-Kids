@@ -129,6 +129,7 @@ What went well:
 		- Everyone in the group has worked hard to learn new skills/technologies for their part of the website.
 	- Project planning 
 		- Everyone in the group stayed on top of their goals & re-evaluated them promptly if they were not able to meet them.
+
 What was difficult:
 	
   - Some technical details of the project were challenging.
@@ -137,6 +138,7 @@ What was difficult:
     - Implementing the user profiles feature will take longer than expected.
 	- Some parts of the project were very time consuming, such as formatting the website with css.
 	- Overall, we underestimated the amount of time & work that would be required for various features.
+
 Areas to improve:
 	
   - Reasses our goals for the website based on our time constraints & adjust them accordingly
