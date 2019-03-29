@@ -8,9 +8,37 @@ ___
 Samar - I will likely add my failed attempt to setup jenkins to automate
 our build process thursday night.
 
-hightlights of what was accomplished
+highlights of what was accomplished
 
 overview of changes to requirements, design, major events
+
+Linux-4-Kids has established a strong foundation for our educational website. We have
+accomplished many of our original goals and addressed new issues that have come up
+along the way. By dividing up tasks and aspects of the project according to individual
+experience and skill sets, we have been able to implement a MVP website. Many lessons
+have been learned about the work and our team has a clear idea about what needs to
+happen for the rest of the semester. To date, we have completed several original
+design elements for the website, created the framework for both the website and the
+backend, developed multiple lesson plans for the curriculum, and added both structural
+and style components to the website.
+
+  A significant majority of the work has fallen upon one of our team members so far.
+Linux-4-Kids has been in conversation this week about how we are addressing this issue.
+With that in mind, it has become clear that our team would benefit from some
+improvements to our communication practices. Individual members have been isolated
+and working alone on tasks, without enough check-ins or collaboration. We plan to
+spend more time working side by side and setting more frequent meeting times for
+discussion and exchange of information.
+
+  There have been no significant changes to the requirements of the project, but we
+have realized that we need to redistribute responsibility and assignment of tasks
+going forward. All team members will be contributing to the code of the website pages.
+The visual design has not been changed thus far, but it could see some small adjustments
+once the rest of the team members are actively developing the website styles. The most
+substantial tasks that need resolution are to finalize the hosting platform details and
+to complete the user profile and sign-in features of the website. We believe these
+changes to the organization and the completion of remaining tasks to complete the
+project are all within reasonable expectations for the time we have.
 
 ### Customer Value
 
@@ -78,6 +106,13 @@ Samar - I'd like to get the whole team working more on adding code Changes
 to components and styling. I've set up most so far with a little help since I
 have experience, but I should be able to outline specific tasks now that everyone
 can do.
+
+Wasilko - My role during this iteration was to design and provide original
+illustrations for the website. I have completed three of these drawings that can
+be used now, without worries about copyright issues. Going forward, I plan to shift
+away from drawing and contribute code and styling. Early on, I sketched up a design
+for the website layout, but hope to more effectively style and structure visual
+aspects of the website.
 
 what roles did team members have for this iteration
 
