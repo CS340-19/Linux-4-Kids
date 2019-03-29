@@ -1,3 +1,6 @@
-<p>
-  read-only-lesson works!
-</p>
+<app-text-container>
+  <p title>{{lesson.title}}</p>
+  <app-lesson-layout [lessonParts]="lesson.parts" body>
+
+  </app-lesson-layout>
+</app-text-container>

@@ -1,6 +1,8 @@
 import { Component, OnInit, Input, ViewChild, EventEmitter, Output } from '@angular/core';
 import { FormControl } from '@angular/forms';
 import { MatSidenav } from '@angular/material';
+import { Router, NavigationStart } from '@angular/router';
+
 // import { NavbarComponent } from '../navbar/navbar.component';
 
 @Component({
@@ -8,7 +10,7 @@ import { MatSidenav } from '@angular/material';
   templateUrl: './sidebar.component.html',
   styleUrls: ['./sidebar.component.scss']
 })
-export class SidebarComponent{
+export class SidebarComponent {
   @Input() sideOpen: boolean = false;
   @Output() sideOpenChange = new EventEmitter();
   @ViewChild('sidebar') sidebar: MatSidenav;
@@ -17,8 +19,20 @@ export class SidebarComponent{
   // mode = new FormControl('over');
   // shouldRun = [/(^|\.)plnkr\.co$/, /(^|\.)stackblitz\.io$/].some(h => h.test(window.location.host));
 
+  constructor(router: Router) {
+    router.events.subscribe(event => {
+      if (event instanceof NavigationStart) {
+        this.sidebar.close();
+      }
+      // NavigationEnd
+      // NavigationCancel
+      // NavigationError
+      // RoutesRecognized
+    });
+  }
+
   ngOnChanges(changes) {
-    if(this.firstTime)
+    if (this.firstTime)
       this.firstTime = false;
     else
       this.toggleSidebar();

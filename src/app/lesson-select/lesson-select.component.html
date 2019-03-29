@@ -1,3 +1,4 @@
+<div class="centered">
 <mat-tree [dataSource]="nestedLessons" [treeControl]="nestedTreeControl">
   <mat-tree-node *matTreeNodeDef="let node" matTreeNodeToggle>
 			<div>
@@ -16,10 +17,11 @@
           </mat-icon>
           <!-- <mat-icon>{{node.iconname}}</mat-icon> -->
         </button>
-        {{node.title}}
+        <a class="routerLink main-title" routerLink="/lesson/text-lesson/{{node.id}}">{{node.title}}</a>
 			</div>
 			<ul [hidden]="!nestedTreeControl.isExpanded(node)">
 				<ng-container matTreeNodeOutlet></ng-container>
 			</ul>
 	</mat-nested-tree-node>
 </mat-tree>
+<div>
