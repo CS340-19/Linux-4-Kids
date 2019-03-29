@@ -120,10 +120,7 @@ and continue to add to the lesson content.
 
 ### Reflection
 
-Samar - After getting the framework working with the UI library and other
-dependencies progress has been quicker. I can write about this later or someone
-can BS, either way
-  What went well:
+What went well:
 		- All members of the team are active and cooperative.
 		- There is good communication between team members.
 		- The website design 
