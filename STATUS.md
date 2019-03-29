@@ -48,18 +48,18 @@ satisfied with what we have created, so it is not lost time.
 We have implemented a tree list for our lesson selection page that can accommodate
 a variable number of lessons and sub-lessons.
 
-ADD IMAGE
+![Tree List](src/assets/lesson-select.PNG)
 
 Our sidebar navigation is well styled for the most part and correctly links to
 different portions of our site.
 
-ADD IMAGE
+![Sidebar](src/assets/sidebar.PNG)
 
 Our lesson page takes information from our lesson objects array and dynamically
 styles it according to its length and parts. All that is needed is to add another
 lesson to our array and it will be populated onto our site. No hard coding each lesson.
 
-ADD IMAGE
+![Text-lesson](src/assets/text-lesson.PNG)
 
 Unfortunately, other than general navigation debugging and attempting to break our
 site, we have done no tests. Automated testing is a priority as soon as the UI is finished.
