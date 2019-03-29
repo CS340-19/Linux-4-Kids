@@ -121,25 +121,25 @@ and continue to add to the lesson content.
 ### Reflection
 
 What went well:
-		- All members of the team are active and cooperative.
-		- There is good communication between team members.
-		- The website design 
-			- The website was designed to be simple and easy to navigate for a young audience 
-		- Learning new skills & technologies 
-			- Everyone in the group has worked hard to learn new skills/technologies for their part of the website.
-		- Project planning 
-			- Everyone in the group stayed on top of their goals & re-evaluated them promptly if they were not able to meet them.
-	What was difficult
-		- Some technical details of the project were challenging.
-			- We had problems figuring out how to host our website.
-			- Understanding the framework used to create the website design posed some challenges.
-			- Implementing the user profiles feature will take longer than expected.
-		- Some parts of the project were very time consuming, such as formatting the website with css.
-		- Overall, we underestimated the amount of time & work that would be required for various features.
-	Areas to improve
-		- Reasses our goals for the website based on our time constraints & adjust them accordingly
-		- Further improve skills needed to build the website
-    - Make sure to meet all milestones & deadlines
-    - Start helping each other with other parts of the website 
+	- All members of the team are active and cooperative.
+	- There is good communication between team members.
+	- The website design 
+		- The website was designed to be simple and easy to navigate for a young audience 
+	- Learning new skills & technologies 
+		- Everyone in the group has worked hard to learn new skills/technologies for their part of the website.
+	- Project planning 
+		- Everyone in the group stayed on top of their goals & re-evaluated them promptly if they were not able to meet them.
+What was difficult
+	- Some technical details of the project were challenging.
+		- We had problems figuring out how to host our website.
+		- Understanding the framework used to create the website design posed some challenges.
+    - Implementing the user profiles feature will take longer than expected.
+	- Some parts of the project were very time consuming, such as formatting the website with css.
+	- Overall, we underestimated the amount of time & work that would be required for various features.
+Areas to improve
+	- Reasses our goals for the website based on our time constraints & adjust them accordingly
+	- Further improve skills needed to build the website
+  - Make sure to meet all milestones & deadlines
+  - Start helping each other with other parts of the website 
 
 	
