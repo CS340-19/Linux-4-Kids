@@ -5,7 +5,6 @@ import { AppComponent } from './app.component';
 import { MaterialModule } from './material.module';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { ExampleComponent } from './example/example.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { SidebarComponent } from './sidebar/sidebar.component';
 import { BottombarComponent } from './bottombar/bottombar.component';
@@ -15,11 +14,11 @@ import { HomePageComponent } from './home-page/home-page.component';
 import { ReadOnlyLessonComponent } from './read-only-lesson/read-only-lesson.component';
 import { TerminalLessonComponent } from './terminal-lesson/terminal-lesson.component';
 import { LessonSelectComponent } from './lesson-select/lesson-select.component';
+import { LessonLayoutComponent } from './lesson-layout/lesson-layout.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    ExampleComponent,
     NavbarComponent,
     SidebarComponent,
     BottombarComponent,
@@ -27,7 +26,8 @@ import { LessonSelectComponent } from './lesson-select/lesson-select.component';
     HomePageComponent,
     ReadOnlyLessonComponent,
     TerminalLessonComponent,
-    LessonSelectComponent
+    LessonSelectComponent,
+    LessonLayoutComponent
   ],
   imports: [
     BrowserModule,
