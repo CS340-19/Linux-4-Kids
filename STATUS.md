@@ -121,8 +121,8 @@ and continue to add to the lesson content.
 ### Reflection
 
 What went well:
-	- All members of the team are active and cooperative.
-	- There is good communication between team members.
+  - All members of the team are active and cooperative.
+  - There is good communication between team members.
 	- The website design 
 		- The website was designed to be simple and easy to navigate for a young audience 
 	- Learning new skills & technologies 
