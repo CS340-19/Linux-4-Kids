@@ -14,18 +14,22 @@ overview of changes to requirements, design, major events
 
 ### Customer Value
 
-Samar - I would say we likely fall under no changes unless you can think of something
+As was stated in our project proposal, our goal is to provide an educational website to
+teach children the basics of Linux, including things like standard usage, commonly used
+software, and the history of the service. This is not a unique product. The main way we 
+hope to distinguish our platform from others is in the interactive nature of the design, 
+as well as by having games and activities throughout in order to make the program feel
+more like fun that education.
 
-Changes from the project proposal
-  -date of Changes
-  -motivation for Changes
-  -description of change including implications
-if no changes - note "no changes"
-
+Our goals in that regard have not changed. However, within the scope of our timeline and
+considering the experience of our team members, the interactivity is more than likely what
+will be lacking by the deadline. Much of our remaining time will be spent in polishing the
+look and feel of the website and adding new features as well as content. So while our goals
+have not changed, we are tempering our expectations.
 
 ### Technology
 
-Our project has made substantial progress in implementing a MVP of our website using
+Our project has made substantial progress in implementing a MVP of our website using 
 our selected tools. It has been created using Angular 7 and the Material 2 UI library.
 The goal of our implementation has been to follow Angular's best practices as much as
 we are able. What this entails is writing our code without using deprecated syntax,
@@ -83,14 +87,23 @@ what roles did team members have for this iteration
 
 do you expect team member roles to change going forward
 
-
-
 ### Project Managment
 
-is the product on schedule
+Due in part to the fact that the majority of our experience is concentrated in only one of 
+our team members, the project has not progressed as quickly as could be hoped. In particular, 
+our user profile feature is well behind schedule, and will need significant progress to become 
+functional. Despite this, we expect to have at least basic user profile functionality 
+implemented by the time of our final presentation. In addition, our site is functional as a 
+whole and there is a great framework for expanding on components such as lesson content, 
+stylization, and interactive content such as the emulated Linux terminal and other games and 
+activities.
 
-provide any updates to the schedule since the start of the semester
-
+Because of the wide scope of our project, as well as the fact that it could be continually 
+added to and improved upon in dozens of ways, from the beginning we have been planning on 
+simply taking the project as far as we could with the time and manpower that we have. And to
+that end, we will continue to add and polish until the very end. Going forward our main goals
+will be to continue to improve the look and feel of the site, implement the user profiles,
+and continue to add to the lesson content.
 
 ### Reflection
 
