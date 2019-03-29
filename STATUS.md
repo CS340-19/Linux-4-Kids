@@ -83,7 +83,9 @@ to components and styling. I've set up most so far with a little help since I
 have experience, but I should be able to outline specific tasks now that everyone
 can do since we now have a well-laid basic framework for our project.
 
-Engelvin-Grezes - 
+Engelvin-Grezes - I worked on writing the lessons for this iteration. I fell behind on
+writing them and my main goal for the next iteration will be catching up. I would also like
+to help with creating the website itself.
 
 Wasilko - 
 
@@ -121,8 +123,26 @@ and continue to add to the lesson content.
 Samar - After getting the framework working with the UI library and other
 dependencies progress has been quicker. I can write about this later or someone
 can BS, either way
+  What went well:
+		- All members of the team are active and cooperative.
+		- There is good communication between team members.
+		- The website design 
+			- The website was designed to be simple and easy to navigate for a young audience 
+		- Learning new skills & technologies 
+			- Everyone in the group has worked hard to learn new skills/technologies for their part of the website.
+		- Project planning 
+			- Everyone in the group stayed on top of their goals & re-evaluated them promptly if they were not able to meet them.
+	What was difficult
+		- Some technical details of the project were challenging.
+			- We had problems figuring out how to host our website.
+			- Understanding the framework used to create the website design posed some challenges.
+			- Implementing the user profiles feature will take longer than expected.
+		- Some parts of the project were very time consuming, such as formatting the website with css.
+		- Overall, we underestimated the amount of time & work that would be required for various features.
+	Areas to improve
+		- Reasses our goals for the website based on our time constraints & adjust them accordingly
+		- Further improve skills needed to build the website
+    - Make sure to meet all milestones & deadlines
+    - Start helping each other with other parts of the website 
 
-For this iteration:
-  - What went well
-  - what didn't go well
-  - what will you do differently in the next iteration
+	
