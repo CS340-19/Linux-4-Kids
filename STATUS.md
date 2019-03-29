@@ -78,10 +78,21 @@ have not decided the order, but our options include the following:
 
 ### Team
 
-Samar - I'd like to get the whole team working more on adding code Changes
+Samar - I'd like to get the whole team working more on adding code changes
 to components and styling. I've set up most so far with a little help since I
 have experience, but I should be able to outline specific tasks now that everyone
-can do.
+can do since we now have a well-laid basic framework for our project.
+
+Engelvin-Grezes - 
+
+Wasilko - 
+
+Derby - During this iteration my goal was to implement user profiles using mongodb. I was
+unsuccesful in accomplishing this by our team's established deadline. Within the next few
+days I will be making another concerted effort to get the profiles functional and hosted
+on the mongo database. In addition, I hope to assist Jacob in the continued stylization of
+the site.
+
 
 what roles did team members have for this iteration
 
