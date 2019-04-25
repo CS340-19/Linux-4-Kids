@@ -11,6 +11,11 @@
   @include sidebar-component-theme($theme);
 }
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
 mat-toolbar-row {
   justify-content: space-between;
 }
