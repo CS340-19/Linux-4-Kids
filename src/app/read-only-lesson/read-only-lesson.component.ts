@@ -3,6 +3,8 @@ import { LESSONS } from '../../assets/mock-lessons';
 import { Router, ActivatedRoute, ParamMap } from '@angular/router';
 import { switchMap } from 'rxjs/operators';
 import { Lesson } from '../classes/lesson/lesson';
+import { LessonsService } from '../lessons.service';
+
 
 @Component({
   selector: 'app-read-only-lesson',
@@ -15,10 +17,12 @@ export class ReadOnlyLessonComponent implements OnInit {
   constructor(
   private route: ActivatedRoute,
   private router: Router,
+  private lessonsService: LessonsService,
 ) {}
 
 ngOnInit() {
-  this.lesson = LESSONS.find(((lesson) => lesson.id == this.route.paramMap.source.value.id));
+  this.lesson = this.lessonsService.getLesson(parseInt(this.route.snapshot.paramMap.get("id")));
+  //  this.lesson = LESSONS.find(((lesson) => lesson.id == parseInt(this.route.snapshot.paramMap.get("id"))));
   // this.hero$ = this.route.paramMap.pipe(
   // switchMap((params: ParamMap) =>
   // this.service.getHero(params.get('id')))

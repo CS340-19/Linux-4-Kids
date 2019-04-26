@@ -1,5 +1,13 @@
-.centered {
+h1 {
   text-align: center;
+  font-size: 40px;
+  padding-bottom: 10px;
+}
+
+
+.centered {
+  width: 75%;
+  margin: 0 auto;
   padding: 5px 15px 10px 15px;
 }
 
@@ -14,21 +22,21 @@
 
 .routerLink:link
 {
-   color: #fb3f00;
+   color: #6480ad;
    text-decoration: none;
 }
 .routerLink:visited
 {
-   color: #fb3f00;
+   color: #6480ad;
    text-decoration: none;
 }
 .routerLink:hover
 {
-   color: #fb3f00;
+   color: #6480ad;
    text-decoration: none;
 }
 .routerLink:active
 {
-   color: #fb3f00;
+   color: #6480ad;
    text-decoration: none;
 }

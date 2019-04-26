@@ -6,10 +6,25 @@ p {
 
 .boxed {
   border-style: solid;
+  border-color: #0f1621;
   // background-color: white;
+}
+
+.title {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.text {
+  padding: 10px 15px 15px 10px;
 }
 
 .outside-box {
   text-align: center;
   padding: 5px 15px 10px 15px;
+}
+
+.para {
+  padding-top: 10px;
+  padding-bottom: 10px;
 }

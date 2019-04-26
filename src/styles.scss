@@ -11,6 +11,11 @@
   @include sidebar-component-theme($theme);
 }
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
 mat-toolbar-row {
   justify-content: space-between;
 }
@@ -19,6 +24,24 @@ mat-toolbar-row {
 .my-theme {
   @include angular-material-theme($theme);
   @include custom-components-theme($theme);
+}
+
+.centered {
+  width: 75%;
+  margin: 0 auto;
+  padding: 5px 15px 10px 15px;
+}
+
+.loading {
+    opacity: 0;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background: #272c33;
+    padding-top: 25vh;
+    text-align: center;
+    z-index: -1;
+    transition: opacity .8s ease-out;
 }
 
 .container {

@@ -24,9 +24,33 @@ li {
 .center {
    position: relative;
    width: 100%;
+   text-align: center;
+   font-size: 20px
    // top: 50%;
    // transform: translateY(-50%);
   // margin: auto;
   // width: 50%;
   // padding: 10px;
+}
+
+
+.routerLink:link
+{
+   color: #6480ad;
+   text-decoration: none;
+}
+.routerLink:visited
+{
+   color: #6480ad;
+   text-decoration: none;
+}
+.routerLink:hover
+{
+   color: #6480ad;
+   text-decoration: none;
+}
+.routerLink:active
+{
+   color: #6480ad;
+   text-decoration: none;
 }

@@ -2,7 +2,10 @@
 <app-navbar [(sideOpen)]="sideOpen"></app-navbar>
 <app-sidebar [(sideOpen)]="sideOpen">
   <!-- content goes here -->
-  <router-outlet></router-outlet>
-  <hr>
+  <!-- <router-outlet></router-outlet> -->
+  <div [@routeAnimations]="prepareRoute(outlet)" >
+    <router-outlet #outlet="outlet"></router-outlet>
+  </div>
+
   <app-bottombar color="primary"></app-bottombar>
 </app-sidebar>
