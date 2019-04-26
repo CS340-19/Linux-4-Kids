@@ -12,7 +12,7 @@ import { LessonsService } from '../lessons.service';
 })
 export class LessonSelectComponent{
   nestedLessons: Lesson[] = [];
-  getChildren = (node: Lesson) => of(node.parts);
+  getChildren = (node: string) => of(node.parts);
   nestedTreeControl = new NestedTreeControl(this.getChildren);
 
   hasChild(_: number, node: Lesson) {
