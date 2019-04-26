@@ -4,9 +4,8 @@
 export class Lesson {
   id: number;
   title: string;
-  body: string;
-  sources: string[];
-  parts: Lesson[];
+  parts: string[];
+  content: string;
   //need a text section, but would need to identify formatting
   //and such so it looks good on the page
 }

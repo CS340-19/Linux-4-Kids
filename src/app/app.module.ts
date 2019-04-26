@@ -1,5 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
-import { NgModule } from '@angular/core';
+import { APP_INITIALIZER, NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { MaterialModule } from './material.module';
@@ -15,6 +15,12 @@ import { ReadOnlyLessonComponent } from './read-only-lesson/read-only-lesson.com
 import { TerminalLessonComponent } from './terminal-lesson/terminal-lesson.component';
 import { LessonSelectComponent } from './lesson-select/lesson-select.component';
 import { LessonLayoutComponent } from './lesson-layout/lesson-layout.component';
+import { LessonInit } from '../helpers/lesson-init';
+import { HttpClientModule } from '@angular/common/http';
+
+export function LessonProviderFactory(provider: LessonInit) {
+  return () => provider.load();
+}
 
 @NgModule({
   declarations: [
@@ -35,9 +41,13 @@ import { LessonLayoutComponent } from './lesson-layout/lesson-layout.component';
     AppRoutingModule,
     MaterialModule,
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    HttpClientModule
   ],
-  providers: [],
+  providers: [
+   LessonInit,
+   { provide: APP_INITIALIZER, useFactory: LessonProviderFactory, deps: [LessonInit], multi: true }
+ ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

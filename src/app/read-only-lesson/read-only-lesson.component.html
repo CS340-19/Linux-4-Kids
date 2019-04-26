@@ -1,6 +1,10 @@
+<div class="content">
 <app-text-container>
-  <p title>{{lesson.title}}</p>
+  <p class="title" title>{{lesson.title}}</p>
+  <p [innerHTML]="lesson.content" class="para" body></p>
+  <!-- <p title>{{lesson.title}}</p>
   <app-lesson-layout [lessonParts]="lesson.parts" body>
 
-  </app-lesson-layout>
+  </app-lesson-layout> -->
 </app-text-container>
+<div>
