@@ -10,33 +10,21 @@
   This might involve arrows pointing to the feature described by each word
   
   ## Lesson 2: Introduction to Ubuntu
-  ### Part 1 - Text Only Page
+  ### [Part 1](Lesson2Part1.md) - Text Only Page
   This will give a brief overview of Ubuntu - some background information, it's distinguishing features & maybe a little history
-  ### Part 2 - Text Only Page
+  ### [Part 2](Lesson2Part2.md) - Text Only Page
   Describes the similarities & differences between Ubuntu and OS's probably used by the viewer
   
   ## Lesson 3: Navigating the Desktop Environment
   The pictures will be of the features discussed in the lesson 
-  ### Part 1 - Text & Pictures
+  ### [Part 1](Lesson3Part1.md) - Text & Pictures
   This will cover the sidebar
   
-  ## Part 2: - Text & Pictures
-  This will go over the rest of the features
-  
-  ## Lesson 5: Understanding the File System
-  ### Part 1 - Text & Pictures
-  Goes over the GUI feature
-  
-  ### Part 2 - Text & Command Line Emulator
-  Basic overview of using the command line to navigate/interact with files
-  
-  ## Lesson 6: Intro to the Command Line
-  More info on the command line, split into 2 parts
-  ### Part 1 - Text & Command Line Emulator
-  
-  ### Part 2 - Text & Command Line Emulator
-  
-  ## Lesson 6: Useful Features
+  ## Lesson 4: Understanding the File System
+  ### [Part 1](Lesson4Part1.md) - Text & Pictures
+  Goes over the Files application
+ 
+  ## Lesson 5: Useful Features
   ### Part 1 - Text & Pictures
   Goes over useful programs & features
   
