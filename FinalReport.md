@@ -72,10 +72,13 @@ work on the website because we believe it is important for users to be able to s
 after various efforts to do so, we decided to table the goal. We ended up testing our website
 manually. We also got people unfamiliar with the website to test it out. 
 
+Here is a look at the main page of the website
 ![Here is a look at the main page of the website](src/assets/IMG_1037.PNG)
 
+This is a screenshot of the sidebar
 ![This is a screenshot of the sidebar](src/assets/IMG_1038.PNG)
 
+This is what each lesson page looks like
 ![This is what each lesson page looks like](src/assets/IMG_1039.PNG)
 
 ### Team
