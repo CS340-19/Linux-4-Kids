@@ -75,27 +75,17 @@ work on the website because we believe it is important for users to be able to s
 
 ### Team
 
-Samar - I'd like to get the whole team working more on adding code changes
-to components and styling. I've set up most so far with a little help since I
-have experience, but I should be able to outline specific tasks now that everyone
-can do since we now have a well-laid basic framework for our project.
-
-Engelvin-Grezes - I worked on writing the lessons for this iteration. I fell behind on
-writing them but was able to catch up in the last sprint. I also had a large role in 
-writing our status reports & our team powerpoint. 
-
-Wasilko - My role during this iteration was to design and provide original
-illustrations for the website. I have completed three of these drawings that can
-be used now, without worries about copyright issues. Going forward, I plan to shift
-away from drawing and contribute code and styling. Early on, I sketched up a design
-for the website layout, but hope to more effectively style and structure visual
-aspects of the website.
-
-Derby - During this iteration my goal was to implement user profiles using mongodb. I was
-unsuccesful in accomplishing this by our team's established deadline. Within the next few
-days I will be making another concerted effort to get the profiles functional and hosted
-on the mongo database. In addition, I hope to assist Jacob in the continued stylization of
-the site.
+  Our front end developer, Jacob Samar, contributed more than other team members
+thanks to his extensive front end development efforts. In hindsight, we would change
+the structure of our project development plan to ensure all members work on all parts
+of the website (front end, back end, and content) so that no one person bears the entire
+load of the development effort. Our backend developer, Russell Derby, had trouble with
+MongoDB which led to us scrapping our plans for a back end system entirely. We believe
+this problem could have been remedied by, again, distributing resposibilites across
+everyone. David Wasilko & Alexis Engelvin-Grezes worked on website content, with David 
+creating the illustrations & Alexis writing the website content. All of us worked on writing
+sections of the various reports for our respective topics of development as well as
+our final presentation. We had no central team leader. In the end, team roles were mostly static.
 
 ### Project Managment
 
