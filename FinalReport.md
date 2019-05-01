@@ -5,7 +5,12 @@ ___
 
 ### Overview
 
-Linux-4-Kids has established a strong foundation for our educational website. We have
+  Our website, Linux-4-Kids, is an educational website meant to get young people interested 
+in using a Linux distribution for their everday computing. We found that there were almost
+no resources that offered this, so that was the impetus for this project. We envisioned
+a website that made learning to use Linux fun and easy for people of all ages. 
+  
+  Linux-4-Kids has established a strong foundation for our educational website. We have
 accomplished many of our original goals and addressed new issues that have come up
 along the way. By dividing up tasks and aspects of the project according to individual
 experience and skill sets, we have been able to implement a MVP website. Many lessons
@@ -14,14 +19,6 @@ happen for the rest of the semester. To date, we have completed several original
 design elements for the website, created the framework for both the website and the
 backend, developed multiple lesson plans for the curriculum, and added both structural
 and style components to the website.
-
-  A significant majority of the work has fallen upon one of our team members so far.
-Linux-4-Kids has been in conversation this week about how we are addressing this issue.
-With that in mind, it has become clear that our team would benefit from some
-improvements to our communication practices. Individual members have been isolated
-and working alone on tasks, without enough check-ins or collaboration. We plan to
-spend more time working side by side and setting more frequent meeting times for
-discussion and exchange of information.
 
   In the final weeks of our project development, we realized we had to cut back on a few of our goals. 
 Perhaps the most drastic change to our plans was to scrap our back end development. This meant we would 
@@ -32,11 +29,11 @@ in finding a platform to host our website because none of us had experience in t
 have put more time into finding a solution for this.
 
   In the end, we were able to accomplish several of our main goals. The website is functional
-and anyone who uses has access to a basic linux tutorial. Thanks to the design efforts of our front
-end developer & illustrator, the website has an ambience suitable for a younger audience.
+and anyone who uses it has access to a basic linux tutorial. Thanks to the design efforts of our 
+front end developer & illustrator, the website has an ambience suitable for a younger audience.
 We were able to meet most of our sprints, however, some of our more ambitious goals had to be
-scrapped, such as user profiles. Also, some of our easier goals were not met, such as hosting our website.
-In retrospect, we were not able to meet these goals due to the inexperience of our team. 
+scrapped, such as user profiles. Also, some of our easier goals were not met, such as hosting our 
+website. In retrospect, we were not able to meet these goals due to the inexperience of our team. 
 We learned that in the future we need to dedicate more time to learning new technologies when
 we begin projects so that we can easily meet the projects basic goals.
 
@@ -71,7 +68,15 @@ mood we wanted.
 of us had any experience with back end development. It would be our top priority if we were to resume 
 work on the website because we believe it is important for users to be able to save their progress.
 
-  
+  In our status report, we express that we wanted to set up automated testing for our website. This
+after various efforts to do so, we decided to table the goal. We ended up testing our website
+manually. We also got people unfamiliar with the website to test it out. 
+
+![Here is a look at the main page of the website](src/assets/IMG_1037.PNG)
+
+![This is a screenshot of the sidebar](src/assets/IMG_1038.PNG)
+
+![This is what each lesson page looks like](src/assets/IMG_1039.PNG)
 
 ### Team
 
@@ -89,14 +94,14 @@ our final presentation. We had no central team leader. In the end, team roles we
 
 ### Project Managment
 
-Because of the wide scope of our project, as well as the fact that it could be continually 
+  Because of the wide scope of our project, as well as the fact that it could be continually 
 added to and improved upon in dozens of ways, from the beginning we have been planning on 
 simply taking the project as far as we could with the time and manpower that we have. And to
 that end, we will continue to add and polish until the very end. Going forward our main goals
 will be to continue to improve the look and feel of the site, implement the user profiles,
 and continue to add to the lesson content.
 
-We believe there are several reasons we missed our goals. The first is inexperience.
+  We believe there are several reasons we missed our goals. The first is inexperience.
 Trying to learn not just new technologies but new skills was time consuming. We were 
 too ambitious with our goals & should have put more energy in to meeting the basic 
 requirements of our website, such as getting it hosted. We also wish we had distributed 
@@ -129,11 +134,16 @@ tasks took longer (particularly front end and back end development).
 
   We believe our project was a success in all aspects but the technical. We failed in our
 attempts to implements various technical aspects of our website. We wanted it to be more expansive
-and to have more features. However, we succeeded in many others ways, mainly in the things we 
+and to have more features. We wanted to use automated testing for our website, but due to time
+constraints this was not used.
+
+
+However, we succeeded in many others ways, mainly in the things we 
 learned for future project development. We learned that project development is truly a team 
 effort and everyone needs to try to contribute in all aspects of the project. We also learned we 
 need to treat goal setting for our projects with more caution, as making goals that are too
-ambitious can make meeting even basic goals harder. 
+ambitious can make meeting even basic goals harder. Any future projects we take on will benefit
+from the experience we gained working on Linux-4-Kids.
 
   
 
