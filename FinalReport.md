@@ -119,5 +119,33 @@ could have accomplished more.
 
 ### Reflection
 
-	
+  Throughout our project, our team worked well together. We were all cooperative and made 
+ourselves available as best we could. We communicated through a group chat, which we 
+believe was the best way to communicate with each other in real time on the project. 
+Because of our good communication, we were able to recognise when certain goals were not
+going to be met, and we were able to re-adjust our project accordingly. Also, we all had to 
+learn new things for this project, and while we still did not meet some of our goals because 
+of several learning curves, everyone gave a good effort to try to do something new. 
+
+  In the end, our website design worked out nicely. Thanks to revisiting the front end
+design in the third sprint, the website layout and navigation was improved. Also, several
+new illustrations were added that set our website apart and made its atmospere unique & fun.
+
+  Based on the things we learned during this project, we would change the way we developed
+this website. If we continue work in the future, we will split the tasks so that each person
+works on each part of the website, so no person ends up doing all of the work on one part. We 
+found that having one person work on each task led to an uneven time commitment because certain
+tasks took longer (particularly front end and back end development). 
+
+  We believe our project was a success in all aspects but the technical. We failed in our
+attempts to implements various technical aspects of our website. We wanted it to be more expansive
+and to have more features. However, we succeeded in many others ways, mainly in the things we 
+learned for future project development. We learned that project development is truly a team 
+effort and everyone needs to try to contribute in all aspects of the project. We also learned we 
+need to treat goal setting for our projects with more caution, as making goals that are too
+ambitious can make meeting even basic goals harder. 
+
+  
+
+  
 
